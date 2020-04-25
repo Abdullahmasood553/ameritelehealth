@@ -147,7 +147,7 @@
               <p class="mb-1"><i class="fas fa-circle text-dark mx-2"></i>  Call center service</p>
               <p class="mb-1"><i class="fas fa-circle text-dark mx-2"></i>Provider Network</p>
               <p class="mb-1"><i class="fas fa-circle text-dark mx-2"></i>Program Execution & Training</p>
-              <p class="mb-1">  <a class="button button-hero mt-4" href="https://docs.fcc.gov/public/attachments/DOC-363498A1.pdf">FCC Annoucements</a> &nbsp;&nbsp;&nbsp;<a class="button button-hero mt-4" href="#services">Services We Offer</a></p>
+              <p class="mb-1">  <a class="button button-hero mt-4" href="https://docs.fcc.gov/public/attachments/DOC-363498A1.pdf">FCC Annoucement</a> &nbsp;&nbsp;&nbsp;<a class="button button-hero mt-4" href="#services">Services We Offer</a></p>
             </div>
 
           </div>
@@ -304,7 +304,7 @@
                 <p class="mb-1"><i class="fas fa-circle text-dark mx-2"></i>  Call center service</p>
                 <p class="mb-1"><i class="fas fa-circle text-dark mx-2"></i>Provider Network</p>
                 <p class="mb-1"><i class="fas fa-circle text-dark mx-2"></i>Program Execution & Training</p>
-                <p class="mb-1">  <a class="button button-hero mt-4" href="https://docs.fcc.gov/public/attachments/DOC-363498A1.pdf">FCC Annoucement</a> &nbsp;&nbsp;&nbsp;<a class="button button-hero mt-4" href="#">Services We Offer</a></p>
+                <p class="mb-1">  <a class="button button-hero mt-4" href="https://docs.fcc.gov/public/attachments/DOC-363498A1.pdf">FCC Annoucement</a> &nbsp;&nbsp;&nbsp;<a class="button button-hero mt-4" href="#services">Services We Offer</a></p>
               </div>
             </div>
           </div>
