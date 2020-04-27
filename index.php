@@ -10,7 +10,7 @@
     $lname = htmlspecialchars($_POST['lname']);
 		$email = htmlspecialchars($_POST['email']);
     $phone = htmlspecialchars($_POST['phone']);
-    $organization = htmlspecialchars($_POST['phone']);
+    $organization = htmlspecialchars($_POST['organization']);
 
 
 		// Check Required Fields
@@ -295,7 +295,8 @@
   <section class="section-margin">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6 col-xl-5 align-self-center  mb-lg-0">
+        <div class=" col-lg-6 col-xl-6 offset-xl-1">
+       
           <div class="search-content">
             <h2>Contact Us Today We Can Help <br class="d-none d-xl-block"></h2>
             <div class="list-group" style="text-align: justify;">
@@ -310,7 +311,7 @@
           </div>
      
         </div>
-        <div class="col-lg-6 col-xl-6 offset-xl-1">
+        <div class="col-lg-6 col-xl-5 align-self-center  mb-lg-0">
           <div class="search-wrapper">
             <h3 class="text-white">Contact US</h3>
             <?php if($msg != ''): ?>
@@ -349,7 +350,7 @@
               </div>
 
               <div class="form-group">
-                <button class="button border-0 mt-3" name="submit" type="submit">Submit</button>
+                <button class="button border-0 mt-3 btn-block" name="submit" type="submit">Submit</button>
               </div>
             </form>
           </div>
@@ -440,6 +441,6 @@
 
   <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
   <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
-   <script src="js/main.js"></script>
+   <!-- <script src="js/main.js"></script> -->
   </body>
 </html>
