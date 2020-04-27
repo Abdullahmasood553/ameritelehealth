@@ -20,48 +20,6 @@ $(function() {
         };
     };
     navbarFixed();
-
-    //------- Parallax -------//
-  skrollr.init({
-    forceHeight: false
-  });
-
-
-
-  //------- mailchimp --------//  
-	function mailChimp() {
-		$('#mc_embed_signup').find('form').ajaxChimp();
-	}
-  mailChimp();
-
-
-  $('select').niceSelect();
-
-    /*-------------------------------------------------------------------------------
-	  testimonial slider
-	-------------------------------------------------------------------------------*/
-    if ($('.testimonial').length) {
-        $('.testimonial').owlCarousel({
-            loop: true,
-            margin: 30,
-            items: 5,
-            nav: false,
-            dots: true,
-            responsiveClass: true,
-            slideSpeed: 300,
-            paginationSpeed: 500,
-            responsive: {
-                0: {
-                    items: 1
-                }
-            }
-        })
-    }
-
-
-
-
-  
 });
 
 
