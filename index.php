@@ -82,7 +82,7 @@
     <div class="main_menu">
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container box_1620">
-          <a class="navbar-brand logo_h" href="index.php"><img src="img/home/logo.png" alt="" width="180px" height="120px"></a>
+          <a class="navbar-brand logo_h" href="index.php"><img src="img/home/logo.png" alt="" ></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
@@ -373,7 +373,7 @@
       <div class="row">
         <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
           <div class="card-blog">
-            <img class="card-img rounded-0" src="img/home/health-service.png" alt="" width="277px" height="200px;">
+            <img class="card-img rounded-0" src="img/home/health-service.png" alt="" width="100px" height="200px">
             <div class="card-blog-body">
               <a href="#">
                 <h4>Turn Key Tele Health Services</h4>
@@ -388,7 +388,7 @@
 
         <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
           <div class="card-blog">
-            <img class="card-img rounded-0" src="img/home/schedule.png" alt="" width="277px" height="200px;">
+            <img class="card-img rounded-0" src="img/home/schedule.png" alt="" width="200px" height="200px;">
             <div class="card-blog-body">
               <a href="#">
                 <h4>Schedule a Consult and free assessment</h4>
