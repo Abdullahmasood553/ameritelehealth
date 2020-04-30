@@ -23,7 +23,8 @@
 				$msgClass = 'alert-danger';
 			} else {
 				// Passed
-        $toEmail = 'irfan@ameritechgrp.com';
+         $toEmail = 'irfan@ameritechgrp.com';
+        // $toEmail = 'abdullahmasood553@gmail.com';
 				$subject = 'Contact Request From '.$fname;
 				$body = '<h2>Contact Request</h2>
           <h4>First Name</h4><p>'.$fname.'</p>
@@ -423,10 +424,51 @@
   <!--================Blog section End =================-->
 
 
-  <!-- ================ start footer Area ================= -->
+   <!-- ================ start footer Area ================= -->
   <footer class="footer-area">
     <div class="container">
 
+    <div class="row">
+    <div class="col-lg-4 col-md-6 col-sm-6 app-icon" >
+    <div class="single-footer-widget">
+            <h6>CALL US NOW</h6>
+            <div class="row">
+              <div class="col">
+              <ul class="social-network social-circle">
+             <li><a href="tel:+214-919-4201" style="color:#fff; font-size: 20px"><i class="fa fa-phone"></i>  214-919-4201</a></li>
+           
+              </div>						
+            </div>							
+          </div>
+        </div> 							
+
+        <div class="col-lg-4 col-md-6 col-sm-6 app-icon">
+        <div class="single-footer-widget">
+            <h6>Email</h6>
+            <div class="row">
+              <div class="col">
+              <ul class="social-network social-circle">
+             <li><a href="mailto:irfan@ameritechgrp.com" style="color:#fff; font-size: 20px"><i class="fa fa-envelope"></i>  irfan@ameritechgrp.com</a></li>
+           
+              </div>						
+            </div>							
+          </div>
+        </div> 
+
+
+          <div class="col-lg-4 col-md-6 col-sm-6 app-icon">
+          <div class="single-footer-widget">
+            <h6>Address</h6>
+            <div class="row">
+              <div class="col">
+              <ul class="social-network social-circle">
+             <li><a href="#" style="color:#fff; font-size: 20px;"><i class="fa fa-map-marker"></i>  2600 W Pleasant Run Rd, Suite 260B,  &nbsp;&nbsp;&nbsp;   Lancaster, TX 75146</a></li>
+           
+              </div>						
+            </div>							
+          </div>
+        </div>     			
+      </div>
       <p class="col-sm-12 footer-text m-0 text-center text-white">
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
         Copyright &copy;<script>
